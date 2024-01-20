@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.045,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\course\Unit1.h=D:\course\SystemUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,D:\course\Unit1.h=D:\course\TaskManager.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,D:\course\Unit1.dfm=D:\course\TaskManager.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,D:\course\ShellExecute.cpp=D:\course\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\course\TaskMGR.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,D:\course\TaskMGR.cbproj=D:\course\TaskMGR.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\course\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\course\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\course\TaskMGRPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,=D:\course\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,D:\course\Unit1.cpp=D:\course\TaskManager.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\course\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=D:\course\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,D:\course\ShellExecute.dfm=D:\course\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,D:\course\ShellExecute.h=D:\course\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\course\Unit1.cpp=D:\course\SystemUnit.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
